@@ -1,0 +1,6 @@
+use_frameworks!
+target 'VersionTest_Tests' do
+  pod 'VersionTest', :path => '../'
+  
+  
+end
