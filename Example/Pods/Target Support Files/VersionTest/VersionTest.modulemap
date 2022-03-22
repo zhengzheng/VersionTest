@@ -1,0 +1,6 @@
+framework module VersionTest {
+  umbrella header "VersionTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
